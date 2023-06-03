@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: yellow;
+}
+
+h1 {
+  margin-top: 50px;
+  color: rgb(226, 27, 27);
+  padding: 10px;
+  background-color: orange;
+  border: solid 5px rgb(226, 27, 27);
+  border-radius: 5px;
+}
+
+#weather-info {
+  margin-top: 50px;
+}
+
+#div1 {
+  background-color: rgb(54, 184, 221);
+  border: solid 5px blue;
+  border-radius: 5px;
+  color: rgb(5, 11, 128);
+}
+
+p:hover {
+  background-color: orange;
+  color: black;
+  cursor: pointer;
+}
+
+#hh2 {
+  background-color: blueviolet;
+  color: black;
+}
